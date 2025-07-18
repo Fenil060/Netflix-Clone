@@ -17,5 +17,9 @@ This is a simple and responsive **Netflix landing page clone** built using only 
 
 ## 🔗 Live Demo
 
-👉 [View the Live Site on Netlify](https://rococo-concha-cea309.netlify.app/)
+👉 https://fenil060.github.io/Netflix-Clone/
+
+## Note
+
+-if showig security error then open it into incognito tab/private tab.
 
