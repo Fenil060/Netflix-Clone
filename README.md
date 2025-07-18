@@ -13,5 +13,9 @@ This is a simple and responsive **Netflix landing page clone** built using only 
 - HTML5
 - CSS3 (Flexbox + Grid)
 - Media Queries for responsiveness
-# Netflix-Clone
-A responsive Netflix landing page clone built using HTML and CSS. Includes hero section, feature highlights, email form, and a fully mobile-responsive footer. Hosted using GitHub Pages.
+
+
+## 🔗 Live Demo
+
+👉 [View the Live Site on Netlify](https://rococo-concha-cea309.netlify.app/)
+
